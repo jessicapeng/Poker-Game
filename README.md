@@ -1,6 +1,21 @@
 # Poker-Game
 A game of Poker between the user and the computer
 
+Task: 
+
+In this assignment,you will implement a simulation of a popular casino game usually called video poker. The card deck contains 52 cards, 13 of each suit. At the beginning of the game, the deck is shuffled. You need to devise a fair method for shuffling. (It does not have to be efficient.) The player pays a token for each game. Then the top five cards of the deck are presented to the player. The player can reject none, some, or all of the cards. The rejected cards are replaced from the top of the deck. Now the hand is scored. Your program should pronounce it to be one of the following:
+
+• Nopair—Thelowesthand,containingfiveseparatecardsthatdonotmatchup to create any of the hands below.
+• Onepair—Twocardsofthesamevalue,forexampletwoqueens.Payout:1
+• Twopairs—Twopairs,forexampletwoqueensandtwo5’s.Payout:2
+• Threeofakind—Threecardsofthesamevalue,forexamplethreequeens. Payout: 3
+• Straight—Fivecardswithconsecutivevalues,notnecessarilyofthesamesuit, such as 4, 5, 6, 7, and 8. The ace can either precede a 2 or follow a king. Payout: 4
+• Flush—Fivecards,notnecessarilyinorder,ofthesamesuit.Payout:5
+• FullHouse—Threeofakindandapair,forexamplethreequeensandtwo5’s.Payout: 6
+• FourofaKind—Fourcardsofthesamevalue,suchasfourqueens.Payout:25
+• StraightFlush—Astraightandaflush:Fivecardswithconsecutivevaluesof the same suit. Payout: 50
+• RoyalFlush—Thebestpossiblehandinpoker.A10,jack,queen,king,andace, all of the same suit. Payout: 250
+
 || 7.9: Poker Game ||
 
 To code the Poker, I had to code 4 different classes: Game, Player, Deck, and Card. There is also a 5th tester class to test the Game either with manual input with the deck or for the user to actually play the game. 
