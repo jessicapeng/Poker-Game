@@ -9,17 +9,17 @@ In this assignment,you will implement a simulation of a popular casino game usua
 
 • Onepair— Two cards of thesamevalue,for example two queens. Payout:1
 
-• Twopairs— Two pairs,forexampletwoqueensandtwo5’s.Payout:2
+• Twopairs— Two pairs,forexampletwoqueensandtwo5’s. Payout:2
 
 • Threeofakind— Three cards of thesame value,for example three queens. Payout: 3
 
 • Straight— Fivecardswithconsecutivevalues,notnecessarilyofthesamesuit, such as 4, 5, 6, 7, and 8. The ace can either precede a 2 or follow a king. Payout: 4
 
-• Flush— Fivecards,notnecessarilyinorder,ofthesamesuit.Payout:5
+• Flush— Fivecards,notnecessarilyinorder,ofthesamesuit. Payout:5
 
-• FullHouse— Threeofakindandapair,forexamplethreequeensandtwo5’s.Payout: 6
+• FullHouse— Threeofakindandapair,forexamplethreequeensandtwo5’s. Payout: 6
 
-• FourofaKind— Fourcardsofthesamevalue,suchasfourqueens.Payout:25
+• FourofaKind— Fourcardsofthesamevalue,suchasfourqueens. Payout:25
 
 • StraightFlush— Astraightandaflush:Fivecardswithconsecutivevaluesof the same suit. Payout: 50
 
