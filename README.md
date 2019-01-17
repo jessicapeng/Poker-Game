@@ -27,7 +27,7 @@ In this assignment,you will implement a simulation of a popular casino game usua
 
 || 7.9: Poker Game ||
 
-To code the Poker, I had to code 4 different classes: Game, Player, Deck, and Card. There is also a 5th tester class to test the Game either with manual input with the deck or for the user to actually play the game. 
+To code the Poker Game, I had to code 4 different classes: Game, Player, Deck, and Card. There is also a 5th tester class to test the Game either with manual input with the deck or for the user to actually play the game. 
 
 Card Class
 
