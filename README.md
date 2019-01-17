@@ -1,7 +1,7 @@
 # Poker-Game
 A game of Poker between the user and the computer
 
-||7.9: Poker Game||
+|| 7.9: Poker Game ||
 
 To code the Poker, I had to code 4 different classes: Game, Player, Deck, and Card. There is also a 5th tester class to test the Game either with manual input with the deck or for the user to actually play the game. 
 
